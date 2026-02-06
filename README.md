@@ -1,16 +1,21 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This folder contains centralized documentation for OctoAcme’s project management processes, workflows, and standards. These documents provide a shared source of truth for how projects are planned, executed, reviewed, and continuously improved across the organization.
 
-Hey VinujaMahalingm!
+## Project Management Process Overview
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme follows a structured yet flexible project management approach that emphasizes clear documentation, transparency, and shared ownership across teams. Project knowledge is centralized in this `docs/` folder, ensuring workflows, standards, and decisions are accessible to all contributors. Documentation is treated as a living artifact, refined through issues and pull requests.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Key roles include Product Owners, Project Managers, Engineering Leads, and Contributors. Product Owners define priorities, Project Managers coordinate execution, Engineering Leads provide technical direction, and Contributors follow documented workflows while proposing improvements when needed.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/VinujaMahalingm/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+Communication happens primarily through GitHub issues and pull requests, preserving decisions and rationale. Copilot Spaces is used to explore and surface institutional knowledge quickly.
 
----
+Quality is ensured through peer-reviewed pull requests, acceptance criteria, and consistent templates for proposing changes.
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Available Documents
 
+- [List each document here once visible in docs folder]
+- Example:
+  - onboarding.md
+  - workflow.md
+  - release-process.md
