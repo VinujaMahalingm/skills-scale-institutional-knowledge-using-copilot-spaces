@@ -19,3 +19,6 @@ Quality is ensured through peer-reviewed pull requests, acceptance criteria, and
   - onboarding.md
   - workflow.md
   - release-process.md
+ 
+_Last updated via documentation improvement task._
+
